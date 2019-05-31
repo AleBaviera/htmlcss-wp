@@ -9,11 +9,12 @@ body{
 }
 .container{
   background-image: url("img/download.jpeg");
-  width:500px;
-  height: 1000px;
+  width:800px;
   background-repeat: no-repeat;
   background-size: cover;
   margin: auto;
+  padding: 10px 60px;
+
 }
 header{
   width: 100%;
