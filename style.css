@@ -47,6 +47,8 @@ h3, h1{
   margin: auto;
 
 }
+
+
 .sottotitolo{
   position: absolute;
   left: 50%;
@@ -58,10 +60,27 @@ h3, h1{
   background-color: gray;
   height: 50px;
   width: 100%;
-  position: absolute;
+  position: relative;
   bottom: 0;
 }
-
+.menu::after{
+  content: "";
+  display: table;
+  clear:both;
+}
+.menu div{
+  width: 13.8%;
+  height: 100%;
+  text-transform: uppercase;
+  color: white;
+  float:left;
+  margin: auto;
+}
+.menu h5{
+  left: 50%;
+  top:80%;
+  transform: translate(-50%,-50%);
+}
 section{
  margin-top: 20px
 }
