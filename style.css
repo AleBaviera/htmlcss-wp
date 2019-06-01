@@ -9,7 +9,7 @@ body{
 }
 .container{
   background-image: url("img/download.jpeg");
-  width:100%;
+  width: 100vw;
   background-repeat: no-repeat;
   background-size: cover;
   margin: auto;
