@@ -207,34 +207,14 @@ footer{
   display: table;
   clear: both;
 }
-.fb{
+.logo{
   position: relative;
   width: 33%;
   height: 100%;
   float: left;
-}
-.insta{
-  position: relative;
-  width: 33%;
-  height: 100%;
-  float: left;
-}
-.github{
-  position: relative;
-  width: 33%;
-  height: 100%;
-  float: left;
-}
-.fb>img{
-  width: 25px;
-  height: 25%;
 }
 
-.insta>img{
-  width: 25px;
-  height: 25%;
-}
-.github>img{
+.logo>img{
   width: 25px;
   height: 25%;
 }
