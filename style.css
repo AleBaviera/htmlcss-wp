@@ -52,7 +52,7 @@ h3, h1{
 .sottotitolo{
   position: absolute;
   left: 50%;
-  top:80%;
+  top:85%;
   transform: translate(-50%,-50%);
   bottom: 10px;
 }
@@ -74,13 +74,13 @@ h3, h1{
   text-transform: uppercase;
   color: white;
   float:left;
-  margin: auto;
+  position: relative;
+  font-size: 40%;
+  margin-top: 20px;
+  font-weight: lighter;
+  text-align: center;
 }
-.menu h5{
-  left: 50%;
-  top:80%;
-  transform: translate(-50%,-50%);
-}
+
 section{
  margin-top: 20px
 }
