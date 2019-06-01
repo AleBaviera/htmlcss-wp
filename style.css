@@ -142,6 +142,7 @@ h2{
   color: gray;
   text-transform: uppercase;
   text-shadow: 2px 2px #D3D3D3;
+  line-height: 80px;
 }
 .dx{
   width: 20%;
@@ -159,6 +160,10 @@ h2{
   position: relative;
   line-height: 30px;
   padding: 20px;
+}
+
+.widg>h5{
+  line-height: 80px;
 }
 
 footer{
