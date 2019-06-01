@@ -145,7 +145,7 @@ h2{
 }
 .dx{
   width: 20%;
-  height: 700px;
+  /* height: 700px; */
   float: right;
   position: relative;
 }
@@ -157,6 +157,8 @@ h2{
   border-radius: 2%;
   margin-bottom: 5%;
   position: relative;
+  line-height: 30px;
+  padding: 20px;
 }
 
 footer{
